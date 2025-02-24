@@ -1,0 +1,28 @@
+C:\VS\C# Sorteringsalgoritmer\bin\Debug\net8.0\C# Sorteringsalgoritmer.exe
+C:\VS\C# Sorteringsalgoritmer\bin\Debug\net8.0\C# Sorteringsalgoritmer.deps.json
+C:\VS\C# Sorteringsalgoritmer\bin\Debug\net8.0\C# Sorteringsalgoritmer.runtimeconfig.json
+C:\VS\C# Sorteringsalgoritmer\bin\Debug\net8.0\C# Sorteringsalgoritmer.dll
+C:\VS\C# Sorteringsalgoritmer\bin\Debug\net8.0\C# Sorteringsalgoritmer.pdb
+C:\VS\C# Sorteringsalgoritmer\obj\Debug\net8.0\C# Sorteringsalgoritmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\C# Sorteringsalgoritmer\obj\Debug\net8.0\C# Sorteringsalgoritmer.AssemblyInfoInputs.cache
+C:\VS\C# Sorteringsalgoritmer\obj\Debug\net8.0\C# Sorteringsalgoritmer.AssemblyInfo.cs
+C:\VS\C# Sorteringsalgoritmer\obj\Debug\net8.0\C# Sorteringsalgoritmer.csproj.CoreCompileInputs.cache
+C:\VS\C# Sorteringsalgoritmer\obj\Debug\net8.0\C# Sorteringsalgoritmer.dll
+C:\VS\C# Sorteringsalgoritmer\obj\Debug\net8.0\refint\C# Sorteringsalgoritmer.dll
+C:\VS\C# Sorteringsalgoritmer\obj\Debug\net8.0\C# Sorteringsalgoritmer.pdb
+C:\VS\C# Sorteringsalgoritmer\obj\Debug\net8.0\C# Sorteringsalgoritmer.genruntimeconfig.cache
+C:\VS\C# Sorteringsalgoritmer\obj\Debug\net8.0\ref\C# Sorteringsalgoritmer.dll
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\bin\Debug\net8.0\C# Sorteringsalgoritmer.exe
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\bin\Debug\net8.0\C# Sorteringsalgoritmer.deps.json
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\bin\Debug\net8.0\C# Sorteringsalgoritmer.runtimeconfig.json
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\bin\Debug\net8.0\C# Sorteringsalgoritmer.dll
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\bin\Debug\net8.0\C# Sorteringsalgoritmer.pdb
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\obj\Debug\net8.0\C# Sorteringsalgoritmer.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\obj\Debug\net8.0\C# Sorteringsalgoritmer.AssemblyInfoInputs.cache
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\obj\Debug\net8.0\C# Sorteringsalgoritmer.AssemblyInfo.cs
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\obj\Debug\net8.0\C# Sorteringsalgoritmer.csproj.CoreCompileInputs.cache
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\obj\Debug\net8.0\C# Sorteringsalgoritmer.dll
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\obj\Debug\net8.0\refint\C# Sorteringsalgoritmer.dll
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\obj\Debug\net8.0\C# Sorteringsalgoritmer.pdb
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\obj\Debug\net8.0\C# Sorteringsalgoritmer.genruntimeconfig.cache
+C:\VS\C# Sorteringsalgoritmer\C# Bubblesort\obj\Debug\net8.0\ref\C# Sorteringsalgoritmer.dll

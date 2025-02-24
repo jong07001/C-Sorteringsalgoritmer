@@ -1,0 +1,14 @@
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\bin\Debug\net8.0\C# Mergesort 2.exe
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\bin\Debug\net8.0\C# Mergesort 2.deps.json
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\bin\Debug\net8.0\C# Mergesort 2.runtimeconfig.json
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\bin\Debug\net8.0\C# Mergesort 2.dll
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\bin\Debug\net8.0\C# Mergesort 2.pdb
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\obj\Debug\net8.0\C# Mergesort 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\obj\Debug\net8.0\C# Mergesort 2.AssemblyInfoInputs.cache
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\obj\Debug\net8.0\C# Mergesort 2.AssemblyInfo.cs
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\obj\Debug\net8.0\C# Mergesort 2.csproj.CoreCompileInputs.cache
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\obj\Debug\net8.0\C# Mergesort 2.dll
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\obj\Debug\net8.0\refint\C# Mergesort 2.dll
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\obj\Debug\net8.0\C# Mergesort 2.pdb
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\obj\Debug\net8.0\C# Mergesort 2.genruntimeconfig.cache
+C:\VS\C# Sorteringsalgoritmer\C# Mergesort 2\obj\Debug\net8.0\ref\C# Mergesort 2.dll
